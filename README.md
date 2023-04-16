@@ -1,23 +1,15 @@
-<br>
+# Parth Bhalla
+
 Howdy, looks like you've found my Github! I'm **Parth Bhalla**, the founder of [Tria](https://www.threely.io/) (formerly Threely), Hetu and more. Avid proponent of intellectual curiosity, the pursuit of knowledge and human computer interaction.
 
 Currently working broadly in blockchain and decentralized technologies, including L0-3 blockchains, decentralized data storage, computation, and Zero-Knowledge proofs and rollups.
 
 
-## Stack
+# Stack
 
 ### Languages
-<img src="https://img.shields.io/badge/-C-lightgrey" alt="C" />
-<img src="https://img.shields.io/badge/-C%2B%2B-lightgrey" alt="C++" />
-<img src="https://img.shields.io/badge/-Python-lightgrey" alt="Python" />
-<img src="https://img.shields.io/badge/-Node.JS-lightgrey" alt="Node.JS" />
-<img src="https://img.shields.io/badge/-Go-lightgrey" alt="Go" />
-<img src="https://img.shields.io/badge/-Scala-lightgrey" alt="Scala" />
-<img src="https://img.shields.io/badge/-Rust-lightgrey" alt="Rust" />
-<img src="https://img.shields.io/badge/-Solidity-lightgrey" alt="Solidity" />
-<img src="https://img.shields.io/badge/-Bootstrap-lightgrey" alt="Bootstrap" />
-<img src="https://img.shields.io/badge/-React-lightgrey" alt="React" />
-<img src="https://img.shields.io/badge/-Vue-lightgrey" alt="Vue" />
+
+C, C++, Python, Node.js, Go, Scala, Rust, Solidity, Bootstrap, React, and Vue.
 
 ### Tech
 
@@ -27,12 +19,11 @@ ETH, Polygon Edge, CosmosSDK, Hashgraph, BSC, IPFS, FEVM, StackOS, Infura, Alche
 
 [Superhuman](https://superhuman.com/), [Arc](https://arc.net/), [Cron](https://cron.com/), [Canary](https://canarymail.io/), [Raycast](https://www.raycast.com/ai), [MacOS](https://www.apple.com/in/macos/ventura/).
 
-## Other socials
+# Socials
 
 [Twitter](https://twitter.com/parthbl), [Website](https://www.itsparthbhalla.com/), [Linkedin](https://www.linkedin.com/in/itsparthbhalla/).
 
------
-
+<br>
 
 <div>
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
