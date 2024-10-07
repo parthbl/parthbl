@@ -1,6 +1,6 @@
 # Parth Bhalla
 
-I'm **Parth Bhalla**, founder of [Tria](https://www.tria.so) (prev. Threely), Hetu, and more. Working broadly in large-scale blockchains, DIDs, and certification, async-distributed compute, storage & signatures, zero-knowledge, deFi, and predictive modeling.
+hi im **Parth**, co-founder at [Tria](https://www.tria.so). worked on blockchain infrastructure, did, zero-knowledge, async/distributed compute (TSS/MPC), altVM, interop, defi, and predictive modeling. based in nyc.
  
 ### Socials
 
